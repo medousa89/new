@@ -1,12 +1,12 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: CD
 
 # Controls when the action will run.  
 on:
   schedule:
   # * is a special character in YAML so you have to quote this string
-   - cron:  '11 5 * * 1,3,6'
+   - cron:  '11 5 * * 1,3,5'
   push:
      branches: [main]
 
@@ -41,7 +41,7 @@ jobs:
         run: |
           git config --local user.name ${{ github.actor }}
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
-          git add *.tv
+          git add userbouquet.greekstreamtvATV.tv
           git commit -m "new data from job ${{ github.run_number }}"
           git pull origin "${{ github.ref }}" --autostash --rebase -Xours
           git push origin "${{ github.ref }}"
