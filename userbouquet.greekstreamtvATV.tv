@@ -20,6 +20,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eco.streams.ovh%3a443/BarazaTV/BarazaTV/playlist.m3u8:Baraza Tv Hd Greek Hits
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.streams.ovh%3a1936/barazarelax/barazarelax/playlist.m3u8:Baraza Tv Relaxing
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.vectromdigital.com%3a1936/bcicinema/bcicinema/playlist.m3u8:Bci Cinema
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.vectromdigital.com%3a1936/bciclassic/bciclassic/playlist.m3u8:Bci Claccic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.vectromdigital.com%3a1936/bcidocumentary/bcidocumentary/playlist.m3u8:Bci Documentary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.vectromdigital.com%3a1936/bcidocumentary/bcidocumentary/playlist.m3u8:Bci Documentary
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.vectromdigital.com%3a1936/bcifood/bcifood/playlist.m3u8:Bci Food
@@ -160,5 +161,5 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ythls.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8:Zoyzoynia Tv
-#SERVICE 1:64:270:0:0:0:0:0:0:0::_____::| Wed Jul 19 05:24:52 UTC 2023|::_____
-#DESCRIPTION _____::| Wed Jul 19 05:24:52 UTC 2023|::_____
+#SERVICE 1:64:270:0:0:0:0:0:0:0::_____::| Thu Jul 20 13:46:42 EEST 2023|::_____
+#DESCRIPTION _____::| Thu Jul 20 13:46:42 EEST 2023|::_____
