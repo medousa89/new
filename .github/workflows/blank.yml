@@ -36,7 +36,7 @@ jobs:
         run: |
           rm -f userbouquet.*.tv
           wget "http://sgcpm.com/livestream/stream.xml"
-          wget "https://github.com/medousa89/Weblist/blob/atv/new1.py"
+          wget "https://raw.githubusercontent.com/medousa89/Weblist/atv/new1.py"
           python3 new1.py
           echo "1:64:1:0:0:0:0:0:0:0::` TZ='Europe/Athens' date +"%d-%m-%Y %a %H.%M.%S" >> "userbouquet.greekstreamtvATV.tv"
           rm -f stream.xml
