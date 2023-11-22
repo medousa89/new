@@ -141,4 +141,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ythls.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8:Zoyzoynia Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::20-11-2023Mon07.26.49
+#SERVICE 1:64:1:0:0:0:0:0:0:0::22-11-2023Wed07.27.03
