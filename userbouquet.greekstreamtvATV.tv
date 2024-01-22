@@ -13,6 +13,7 @@
 #SERVICE 4097:0:1:300:300:0:0:0:0:0:http%3a//d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8:Ant1 Hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//neon.streams.gr%3a8081/argolidasport/tracks-v1a1/mono.m3u8:Argolida Sport
 #SERVICE 4097:0:1:3038:3038:0:0:0:0:0:https%3a//live-d5a20b4d.rmbl.ws/slot-54/n5w0-cz0w/chunklist.m3u8:Art
+#SERVICE 4097:0:1:5450:5450:0:0:0:0:0:https%3a//til.pp.ua%3a3711/live/arttvgr70live.m3u8:Art Tv
 #SERVICE 4097:0:1:5950:5950:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/astratv2021:Astra Tv
 #SERVICE 4097:0:1:3008:3008:0:0:0:0:0:http%3a//atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8:Attica Tv
 #SERVICE 4097:0:1:7005:7005:0:0:0:0:0:http%3a//srv.viiideo.gr%3a1935/axeloos/live/playlist.m3u8:Axelwos Tv
@@ -58,7 +59,6 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/faros1/playlist.m3u8:Faros Tv Cy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s1.cystream.net/live/faros2/playlist.m3u8:Faros Tv2 Cy
 #SERVICE 4097:0:1:6005:6005:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/flashtvgr:Flash Tv
-#SERVICE 4097:0:1:4710:4710:0:0:0:0:0:https%3a//svs.itworkscdn.net/formediatvlive/formediatv.smil/formediatv_source_chunks.m3u8:Formedia Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//channel.streams.ovh%3a1936/galaxygr-1/galaxygr-1/playlist.m3u8:Galaxy Gr
 #SERVICE 4097:0:1:4290:4290:0:0:0:0:0:https%3a//channel.streams.ovh%3a1936/gnomitv/gnomitv/playlist.m3u8:Gnomi Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.cast-control.eu%3a443/organismos/organismos/playlist.m3u8:Grd Channel
@@ -123,6 +123,8 @@
 #SERVICE 4097:0:1:2232:2232:0:0:0:0:0:https%3a//s1.cystream.net/live/smile/playlist.m3u8:Smile Tv Cy
 #SERVICE 4097:0:1:4120:4120:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/tvstarfm:Star Be
 #SERVICE 4097:0:1:700:700:0:0:0:0:0:https%3a//livestar.siliconweb.com/media/star1/star1mediumhd.m3u8:Star Hd 
+#SERVICE 4097:0:1:5108:5108:0:0:0:0:0:https%3a//raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Star_Kentrikis_Eladas_Greece.m3u8:Star K.E.
+#SERVICE 4097:0:1:5108:5108:0:0:0:0:0:http%3a//localhost%3a8088/https%3a//www.dailymotion.com/embed/video/k5Hfx6eeaTjBE5zRXcn#tab_embed.m3u8:Star K.E. Bup
 #SERVICE 4097:0:1:7065:7065:0:0:0:0:0:https%3a//live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8:Start Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8:Stent Tv
 #SERVICE 4097:0:1:7205:7205:0:0:0:0:0:http%3a//eco.streams.ovh%3a1935/syrostv1/syrostv1/playlist.m3u8:Syros Tv1
@@ -147,4 +149,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/explorecy/explorecy/playlist.m3u8:Xplore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::19-01-2024Fri07.27.03
+#SERVICE 1:64:1:0:0:0:0:0:0:0::22-01-2024Mon07.27.58
