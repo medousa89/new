@@ -44,13 +44,12 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//channel.streams.ovh%3a8081/dipolotv/index.m3u8:Dtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fr.crystalweb.net%3a1936/extacytv/extacytv/playlist.m3u8:Ectacy Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/extacy_tv:Ectacy Tv Bup
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/extacy_tv_cy:Ectacy Tv Cy
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.vectromdigital.com%3a1936/tvdelta/tvdelta/playlist.m3u8:Ed Tv
 #SERVICE 4097:0:1:4310:4310:0:0:0:0:0:https%3a//video.streams.ovh%3a1936/egnatiatv/egnatiatv/index.m3u8:Egnatia Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8:Ekklhsia Tv Hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ellastv.gotdns.com%3a8088/freetv/promo/index.m3u8:Ellas World
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//til.pp.ua%3a3093/live/ellinikosfmlive.m3u8:Ellinikos Fm
-#SERVICE 4097:0:1:5735:5735:0:0:0:0:0:https%3a//til.pp.ua%3a3365/live/enachannellive.m3u8:Ena Channel
+#SERVICE 4097:0:1:5735:5735:0:0:0:0:0:https%3a//cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8:Ena Channel
 #SERVICE 4097:0:1:7050:7050:0:0:0:0:0:https%3a//til.pp.ua%3a3928/live/epiruslive.m3u8:Epirus Tv1
 #SERVICE 4097:0:1:9005:9005:0:0:0:0:0:http%3a//ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8:Ert Kids
 #SERVICE 4097:0:1:9006:9006:0:0:0:0:0:http%3a//ertflix.s.llnwi.net/ertlive/music/default/index.m3u8:Ert Music
@@ -134,7 +133,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.stent.net.gr/mistserver/hls/obsteliko/index.m3u8:Stent Tv
 #SERVICE 4097:0:1:7205:7205:0:0:0:0:0:https%3a//eco.streams.ovh%3a1936/syrostv1/syrostv1/playlist.m3u8:Syros Tv1
 #SERVICE 4097:0:1:5570:5570:0:0:0:0:0:https%3a//neon.streams.gr%3a8081/telekriti/index.m3u8:Tele Krhth
-#SERVICE 4097:0:1:5955:5955:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/livethess:Thessalia Tv
+#SERVICE 4097:0:1:5955:5955:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/livethess15:Thessalia Tv
 #SERVICE 4097:0:1:5770:5770:0:0:0:0:0:http%3a//cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8:Thrakinet
 #SERVICE 4097:0:1:5775:5775:0:0:0:0:0:https%3a//5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8:Tile Epiloges
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/tilemousiki/playlist.m3u8:Tilemousiki
@@ -154,4 +153,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/explorecy/explorecy/playlist.m3u8:Xplore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::25-11-2024Mon07.28.59
+#SERVICE 1:64:1:0:0:0:0:0:0:0::27-11-2024Wed07.28.51
