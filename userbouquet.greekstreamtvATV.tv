@@ -31,12 +31,11 @@
 #SERVICE 4097:0:1:7015:7015:0:0:0:0:0:https%3a//itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8:Corfu Channel
 #SERVICE 4097:0:1:7105:7105:0:0:0:0:0:http%3a//live.streams.ovh%3a1935/tvcreta/tvcreta/playlist.m3u8:Creta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//www.cypruslivetv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8:Cyprus Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101-fl.bozztv.com/ssh101/deltatv/playlist.m3u8:Delta Cinema
 #SERVICE 4097:0:1:5720:5720:0:0:0:0:0:http%3a//81.171.10.42%3a554/liveD/DStream.sdp/playlist.m3u8:Delta Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_148/amlst%3a203374-5434856/playlist.m3u8:Destination Greece Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/diabatatv:Diavata Tv Hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8:Diavata Tv Hd Bup
-#SERVICE 4097:0:1:5725:5725:0:0:0:0:0:https%3a//5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8:Diktyo Tv
+#SERVICE 4097:0:1:4260:4260:0:0:0:0:0:https%3a//ssh101stream.ssh101.com/akamaissh101/ssh101/diontv/playlist.m3u8:Dion Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/dtpylias:Dtp
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//channel.streams.ovh%3a8081/dipolotv/index.m3u8:Dtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fr.crystalweb.net%3a1936/extacytv/extacytv/playlist.m3u8:Ectacy Tv
@@ -149,4 +148,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/explorecy/explorecy/playlist.m3u8:Xplore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::13-01-2025Mon07.28.13
+#SERVICE 1:64:1:0:0:0:0:0:0:0::15-01-2025Wed07.27.19
