@@ -25,6 +25,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtmp.streams.ovh%3a1936/barazarelax/barazarelax/playlist.m3u8:Baraza Tv Relaxing
 #SERVICE 4097:0:1:5006:5006:0:0:0:0:0:https%3a//besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8:Best Tv
 #SERVICE 4097:0:1:3012:3012:0:0:0:0:0:https%3a//cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8:Blue Sky
+#SERVICE 4097:0:1:5710:5710:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/centerwebtv:Center Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.mediacp.eu%3a8081/cinemaclassics/index.m3u8:Cinema Classics
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101-fl.bozztv.com/ssh101/cinematimetv/playlist.m3u8:Cinema Time 
 #SERVICE 4097:0:1:7015:7015:0:0:0:0:0:https%3a//itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8:Corfu Channel
@@ -34,6 +35,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_148/amlst%3a203374-5434856/playlist.m3u8:Destination Greece Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/diabatatv:Diavata Tv Hd
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8:Diavata Tv Hd Bup
+#SERVICE 4097:0:1:4260:4260:0:0:0:0:0:https%3a//til.pp.ua%3a3156/live/diontvlive.m3u8:Dion Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fr.crystalweb.net%3a1936/extacytv/extacytv/playlist.m3u8:Ectacy Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//eu1.vectromdigital.com%3a1936/tvdelta/tvdelta/playlist.m3u8:Ed Tv
 #SERVICE 4097:0:1:4310:4310:0:0:0:0:0:https%3a//video.streams.ovh%3a1936/egnatiatv/egnatiatv/index.m3u8:Egnatia Tv
@@ -139,4 +141,4 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/explorecy/explorecy/playlist.m3u8:Xplore
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/xtvision:Xtv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8:Zougla Tv
-#SERVICE 1:64:1:0:0:0:0:0:0:0::10-03-2025Mon07.23.37
+#SERVICE 1:64:1:0:0:0:0:0:0:0::12-03-2025Wed07.28.09
