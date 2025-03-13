@@ -1,4 +1,4 @@
-#NAME GreekStreamTVatv
+#NAME GreekStreamTVatv5
 #SERVICE 4097:0:1:5850:5850:0:0:0:0:0:http%3a//eu2.tv4e.gr%3a1935/live/smil%3amyStream.sdp.smil/playlist.m3u8:4E
 #SERVICE 4097:0:1:3004:3004:0:0:0:0:0:http%3a//actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8:Action 24
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8:Aegean Tv
